@@ -1,0 +1,7 @@
+points to remember:
+
+$ touch <file name.txt>  ---- creates a file
+$ mkdir <folder name> ----- creates a directory
+$ cat <file name>-------------- show contents in a file
+$ rm <file name> -------------deletes file in local
+$ rm -rf <folder name>------deletes directory in local
